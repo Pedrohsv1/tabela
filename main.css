@@ -20,14 +20,14 @@ body{
     padding:  12px 15px;
 }
 .content-table th{
-    color: black;
+    color: white;
 }
 .content-table tbody tr:nth-of-type(odd){
-    background-color: rgb(226, 224, 224);
+    background-color: rgb(220, 190, 199);
     color: #aa77ac;
 }
 .content-table tbody tr:nth-of-type(even){
-    background-color: rgb(223, 207, 212);
+    background-color: rgb(224, 210, 215);
     color: white;
 }
 .content-table caption {
@@ -38,7 +38,7 @@ body{
 }
 a {
     text-decoration: none;
-    color: Black;
+    color: white;
 }
 a:hover {
     color: #ab42af;
