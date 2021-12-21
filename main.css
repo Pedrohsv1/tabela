@@ -32,7 +32,7 @@ body{
 }
 .content-table caption {
     padding: 12px 15px;
-    background-color: black;
+    background-color: rgb(163, 151, 158);
     color: white;
     border-radius: 10px;
 }
